@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo Hello
+# hello deleted
+echo This line has been added.
